@@ -1,0 +1,20 @@
+{
+  "version": 2,
+  "plan_id": "north_cap",
+  "scenario": "琥珀残帆_2025湖南省赛想定（人机版）",
+  "side": "红方",
+  "objective": "为红方战斗机建立防空巡逻任务，覆盖己方飞机附近空域。",
+  "constraints": ["仅用于验证任务通路；允许重分配开局已有任务的战斗机"],
+  "valid_until_sim_seconds": 3600,
+  "min_confidence": 0,
+  "task": {
+    "family": "patrol",
+    "subtype": "air",
+    "units": {"category": "Aircraft", "aircraft_type": "fighter", "counts": [2], "unassigned_only": false},
+    "areas": [
+      {"id": "north", "center": "selected_units", "offset_deg": [0.2, 0], "half_span_deg": 0.15},
+      {"id": "south", "center": "selected_units", "offset_deg": [-0.2, 0], "half_span_deg": 0.15}
+    ],
+    "settings": {"one_third_rule": false}
+  }
+}

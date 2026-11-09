@@ -1,0 +1,8 @@
+{
+  "type": "object",
+  "properties": {
+    "reflection_markdown": {"type": "string"}
+  },
+  "required": ["reflection_markdown"],
+  "additionalProperties": false
+}

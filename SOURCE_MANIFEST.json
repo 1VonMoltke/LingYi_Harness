@@ -1,0 +1,94 @@
+[
+  {
+    "path": "overlay/LingYi/intelligent/ai/codex_knowledge/reflection_template.md",
+    "sha256": "c5a57967485ec5af485439a960c49903ba95c7a90395ceb7a7ad72f1da40358f"
+  },
+  {
+    "path": "overlay/LingYi/intelligent/ai/codex_knowledge/skills/lingyi-simulation-guidance/SKILL.md",
+    "sha256": "6210c2a786d582a267807d08f05514b6f9e828c834624b7402bc97a152c9bdb8"
+  },
+  {
+    "path": "overlay/LingYi/intelligent/ai/codex_knowledge.py",
+    "sha256": "66d2d2911d349d201f266216d13564206d54a027c58bf2412007b221a34c8043"
+  },
+  {
+    "path": "overlay/LingYi/intelligent/ai/codex_mission_planner.py",
+    "sha256": "210aa18f20a20d16b70683bf44e0d9012d6432239a229e77fc4a04652d248887"
+  },
+  {
+    "path": "overlay/LingYi/intelligent/ai/codex_plan_output_schema.json",
+    "sha256": "1a10a2b9b9413b30629388f3c7a69ea9ed531e8571b8441141a61b6b222d3747"
+  },
+  {
+    "path": "overlay/LingYi/intelligent/ai/codex_process.py",
+    "sha256": "d88c9de7b0a8106bda8cc8b0bbbe5b00cf7c66a69c4e92096aa31831cbdd97fd"
+  },
+  {
+    "path": "overlay/LingYi/intelligent/ai/codex_reflection_output_schema.json",
+    "sha256": "47b63f2cefdf47d4e4ce8b885b272d0619b2855950ac94dc27320fa58bc0fff7"
+  },
+  {
+    "path": "overlay/LingYi/intelligent/ai/headless_scenario_run.py",
+    "sha256": "2bb9aae216e58f064cf5c51bca09c0cdc6e060b108124e8cd650b9342eb95184"
+  },
+  {
+    "path": "overlay/LingYi/intelligent/ai/laya_command_agent.py",
+    "sha256": "8c566c01cfe0a44053f7be52e1bc80035a9d2e903043a179c514419a4f7007d3"
+  },
+  {
+    "path": "overlay/LingYi/intelligent/ai/laya_mission_protocol.py",
+    "sha256": "95d5db345867915e8d157c1d78d0bc82e587260ab6c7cdfc5db44505401c9ba4"
+  },
+  {
+    "path": "overlay/LingYi/intelligent/ai/laya_patrol_demo.json",
+    "sha256": "398f75d84db8fb552047409c494c99d2f1b50eaeb4dd81906d65b4ab0d968086"
+  },
+  {
+    "path": "overlay/LingYi/intelligent/ai/scenario_brief.py",
+    "sha256": "4c0ff13191880ddfb644739cea959317510423b9e13c6e7d5b410a5dfc3fcd5a"
+  },
+  {
+    "path": "overlay/LingYi/intelligent/ai/score_report.py",
+    "sha256": "989bf169b9626b9d4929dc1579bcbad5247804696778533021113af2a2d216bb"
+  },
+  {
+    "path": "overlay/LingYi/intelligent/ai/test_codex_knowledge.py",
+    "sha256": "474519756b21f986703f7f8bd20ab9ffa9805fece2c4ba70cd6240b95fdac562"
+  },
+  {
+    "path": "overlay/LingYi/intelligent/ai/test_codex_process.py",
+    "sha256": "23fadeafdedcc11297d0315ae4d3ead60e7207e7d60cc610a5010d9fc4065a77"
+  },
+  {
+    "path": "overlay/LingYi/intelligent/ai/test_headless_multiagent.py",
+    "sha256": "860cb2aa4e94ca48dbf989e8be9f01f60839c0cc2eff870113ba0eddb94cc364"
+  },
+  {
+    "path": "overlay/LingYi/intelligent/ai/test_laya_command_agent.py",
+    "sha256": "764f59fc4c3c61e0f7c79b30743b1a1f8ace4a9ee6e4e700bec0d9dd3ca3601f"
+  },
+  {
+    "path": "overlay/LingYi/intelligent/ai/test_scenario_brief.py",
+    "sha256": "ec2b8464227d490b80ebdea768a65213ab8f5175067a26cb2b7f319140f98f73"
+  },
+  {
+    "path": "overlay/LingYi/intelligent/ai/test_score_report.py",
+    "sha256": "62305b43db1da36a9097a38bbf56a4de9ea2d545b3c248f4967b36b2a26dcf86"
+  },
+  {
+    "path": "overlay/LingYi/intelligent/ai/test_unit_loss_monitor.py",
+    "sha256": "b435854164a52bd3da6c33baae9c75244b351191e1c930a504703b64f12cd675"
+  },
+  {
+    "path": "overlay/LingYi/intelligent/ai/unit_loss_monitor.py",
+    "sha256": "e678ccb71638f2a1a0e2d3d5174cf9757b6eb1a2614f07737a550cf4cf52b364"
+  },
+  {
+    "path": "overlay/run_codex_laya.ps1",
+    "sha256": "67d6e3a33db5a3211aada4d1dc8647df87881f06eb2479f5401cadbb8d5eb53e"
+  },
+  {
+    "path": "overlay/start_laya_local.ps1",
+    "sha256": "5f58e69db6a348d81266af28522501061b35b75bcb321b12c5cd574512100daf"
+  }
+]

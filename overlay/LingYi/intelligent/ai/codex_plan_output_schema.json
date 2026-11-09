@@ -1,0 +1,8 @@
+{
+  "type": "object",
+  "properties": {
+    "plan_json": {"type": "string"}
+  },
+  "required": ["plan_json"],
+  "additionalProperties": false
+}
